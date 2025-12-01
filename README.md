@@ -25,4 +25,26 @@ https://archive.ics.uci.edu/ml/datasets/SECOM
 ---
 
 ## 📁 Repository Structure
+Quality-Control/
+│
+├── Figures/ # Control charts & ML outputs
+├── Semiconductor Process Monitoring & Fault Detection.pdf
+├── Semiconductor Process Monitoring & Fault Detection.tex
+└── README.md
+
+
+---
+
+## 🔧 Tools & Libraries
+
+Python • NumPy • Pandas • scikit-learn • imbalanced-learn • Matplotlib • LaTeX
+
+---
+
+## 👤 Author
+
+**Mobasshira Zaman**  
+Industrial Engineering · Machine Learning · Process Analytics  
+GitHub: https://github.com/MobasshiraZaman
+
 
