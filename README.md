@@ -24,13 +24,22 @@ https://archive.ics.uci.edu/ml/datasets/SECOM
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
+
+```plaintext
 Quality-Control/
 │
-├── Figures/ # Control charts & ML outputs
+├── Figures/
+│     ├── xbar_chart.png
+│     ├── r_chart.png
+│     ├── ewma_chart.png
+│     ├── cusum_chart.png
+│     └── anomaly_scores.png
+│
 ├── Semiconductor Process Monitoring & Fault Detection.pdf
 ├── Semiconductor Process Monitoring & Fault Detection.tex
 └── README.md
+
 
 
 ---
